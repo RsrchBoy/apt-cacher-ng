@@ -1,3 +1,5 @@
+# Forked!  See github / "git log" for history info.
+MAINTAINER Chris Weyl <chris.weyl@wps.io>
 FROM ubuntu:precise
 
 ENV DEBIAN_FRONTEND noninteractive
